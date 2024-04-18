@@ -11,6 +11,8 @@
 		2E9FDAA12BD198220055474D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E9FDAA02BD198220055474D /* ContentView.swift */; };
 		2E9FDAA32BD198230055474D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E9FDAA22BD198230055474D /* Assets.xcassets */; };
 		2E9FDAA62BD198230055474D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E9FDAA52BD198230055474D /* Preview Assets.xcassets */; };
+		2E9FDAAD2BD19A010055474D /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E9FDAAC2BD19A010055474D /* SignUpView.swift */; };
+		2E9FDAAF2BD19A170055474D /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E9FDAAE2BD19A170055474D /* WelcomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		2E9FDAA02BD198220055474D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2E9FDAA22BD198230055474D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2E9FDAA52BD198230055474D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2E9FDAAC2BD19A010055474D /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		2E9FDAAE2BD19A170055474D /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				2E9FDAA02BD198220055474D /* ContentView.swift */,
 				2E9FDAA22BD198230055474D /* Assets.xcassets */,
 				2E9FDAA42BD198230055474D /* Preview Content */,
+				2E9FDAAC2BD19A010055474D /* SignUpView.swift */,
+				2E9FDAAE2BD19A170055474D /* WelcomeView.swift */,
 			);
 			path = SwiftUIPracticeAssignment;
 			sourceTree = "<group>";
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				2E9FDAA12BD198220055474D /* ContentView.swift in Sources */,
+				2E9FDAAD2BD19A010055474D /* SignUpView.swift in Sources */,
 				2E9FDA9F2BD198220055474D /* SwiftUIPracticeAssignmentApp.swift in Sources */,
+				2E9FDAAF2BD19A170055474D /* WelcomeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
